@@ -2,4 +2,4 @@
 
 My portfolio
 
-Link to the website : [LINK](https://saurabhzingade.github.io/)
+ [Click to visit the webbsite!](https://saurabhzingade.github.io/)
